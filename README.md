@@ -5,4 +5,4 @@ Alur permainan: jadi si player dapat bergerak ke kanan dan kiri menggunakan tomb
 
 ![Screenshot (35)](https://github.com/user-attachments/assets/97cbd1f4-4471-49e6-a917-59577766686c)
 ![Screenshot (38)](https://github.com/user-attachments/assets/d4efb44c-f682-49c7-8763-5ac69055b08b)
-![Screenshot (36)](https://github.com/user-attachments/assets/67745d55-40ef-4fe7-813d-7af2e19bac0b)
+![Screenshot (37)](https://github.com/user-attachments/assets/e90eff03-79ea-4b4a-bef4-9c3b7dfb5ec7)
