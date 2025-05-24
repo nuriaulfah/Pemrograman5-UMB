@@ -1,6 +1,8 @@
 # Pemrograman5-UMB
 Nuria Ulfah_210220012
 
+Pendekatan yang dipilih: Object Oriented Programing, Pemisahan Logic dan data, pola nya model view controller
+
 Alur permainan: jadi si player dapat bergerak ke kanan dan kiri menggunakan tombol (panah / AD) untuk menghindari virus yg datang, jika ia dapat menhindari virus tersebut maka score (nilai) dapat bertambah, sedangkan jika ia terkena virus maka game tersebut akan berhenti.
 
 ![Screenshot (35)](https://github.com/user-attachments/assets/97cbd1f4-4471-49e6-a917-59577766686c)
